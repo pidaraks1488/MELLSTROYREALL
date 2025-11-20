@@ -1,0 +1,11 @@
+{
+  "title": "zeroface",
+  "version": "1.0",
+  "date": "2025-11-20",
+  "changes": {
+    "list": [
+      "* Fixed loader",
+      "* Fixed elytratarget"
+    ]
+  }
+}
