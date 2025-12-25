@@ -1,34 +1,26 @@
 [
   {
-    "country": "India",
-    "city": "IN",
-    "lat": 40.7128,
-    "lng": -74.0060,
-    "ip": "34.100.129.128",
-    "port": 8123
-  },
-  {
     "country": "Canada",
-    "city": "CN",
+    "city": "CA",
     "lat": 40.7128,
     "lng": -74.0060,
     "ip": "108.162.192.12",
     "port": 80
   },
   {
-    "country": "Uzbekistan",
-    "city": "UZ",
+    "country": "United States",
+    "city": "US",
     "lat": 40.7128,
     "lng": -74.0060,
-    "ip": "95.47.238.254",
-    "port": 3128
+    "ip": "103.116.7.181",
+    "port": 80
   },
   {
-    "country": "Russia",
-    "city": "RU",
+    "country": "Estonia",
+    "city": "EE",
     "lat": 40.7128,
     "lng": -74.0060,
-    "ip": "31.12.75.178",
+    "ip": "45.80.108.134",
     "port": 80
   }
 ]
