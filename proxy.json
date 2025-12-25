@@ -17,10 +17,18 @@
   },
   {
     "country": "Uzbekistan",
-    "city": "UZB",
+    "city": "UZ",
     "lat": 40.7128,
     "lng": -74.0060,
     "ip": "95.47.238.254",
     "port": 3128
+  },
+  {
+    "country": "Russia",
+    "city": "RU",
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "ip": "31.12.75.178",
+    "port": 80
   }
 ]
